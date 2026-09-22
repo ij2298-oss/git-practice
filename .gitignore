@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local configuration and generated files
+.env
+.env.*
+!.env.example
+*.log
+coverage/
